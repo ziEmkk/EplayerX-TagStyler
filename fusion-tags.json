@@ -41,7 +41,7 @@
     },
     {
       "borderColor": "#00000000",
-      "groupId": "video-tech",
+      "groupId": "gq",
       "id": "custom_imax-enhanced_13",
       "imageURL": "https://github.com/6otho/Epx-Badge/raw/refs/heads/main/Badges/imax-e.svg",
       "isEnabled": true,
@@ -54,7 +54,7 @@
     },
     {
       "borderColor": "#00000000",
-      "groupId": "video-tech",
+      "groupId": "gq",
       "id": "custom_imax_14",
       "imageURL": "https://github.com/6otho/Epx-Badge/raw/refs/heads/main/Badges/imax.svg",
       "isEnabled": true,
@@ -106,7 +106,7 @@
     },
     {
       "borderColor": "#00000000",
-      "groupId": "dv-profile",
+      "groupId": "video-tech",
       "id": "custom_dolby-vision-p5",
       "imageURL": "https://github.com/6otho/EplayerX-TagStyler/raw/refs/heads/main/images/dbv-p5x.svg",
       "isEnabled": true,
@@ -119,7 +119,7 @@
     },
     {
       "borderColor": "#00000000",
-      "groupId": "dv-profile",
+      "groupId": "video-tech",
       "id": "custom_dolby-vision-p7",
       "imageURL": "https://github.com/6otho/EplayerX-TagStyler/raw/refs/heads/main/images/dbv-p7y.svg",
       "isEnabled": true,
@@ -132,7 +132,7 @@
     },
     {
       "borderColor": "#00000000",
-      "groupId": "dv-profile",
+      "groupId": "video-tech",
       "id": "custom_dolby-vision-p8",
       "imageURL": "https://github.com/6otho/EplayerX-TagStyler/raw/refs/heads/main/images/dbv-p8z.svg",
       "isEnabled": true,
@@ -298,9 +298,9 @@
     {
       "borderColor": "#00000000",
       "color": "#27C04F",
-      "id": "gs",
+      "id": "gq",
       "isExpanded": true,
-      "name": "Source"
+      "name": "Quality"
     },
     {
       "borderColor": "#00000000",
@@ -308,13 +308,6 @@
       "id": "video-tech",
       "isExpanded": true,
       "name": "Video Tech"
-    },
-    {
-      "borderColor": "#00000000",
-      "color": "#00000000",
-      "id": "dv-profile",
-      "isExpanded": true,
-      "name": "Profile"
     },
     {
       "borderColor": "#00000000",
@@ -329,13 +322,6 @@
       "id": "gc",
       "isExpanded": true,
       "name": "Channels"
-    },
-    {
-      "borderColor": "#00000000",
-      "color": "#00000000",
-      "id": "gq",
-      "isExpanded": true,
-      "name": "Quality"
     }
   ]
 }
